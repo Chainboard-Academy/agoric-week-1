@@ -55,12 +55,12 @@ duration is 5 mins.
 
 1. Open http://localhost:3000 from your browser. You should see something like below:
 
-  <img width="80%" src="images/img.png">
+   <img width="80%" src="images/img.png">
 
 2. Then go to the page automatically opened when you execute `agoric open --repl` command. Approve the dapp from the
 dashboard.
 
-   <img width="80%" src="images/img_1.png">
+   <img width="50%" src="images/img_1.png">
 
 3. Once the approval is successful you should see the list of baseball cards available.
 4. Click on one of the cards and place your bid.
